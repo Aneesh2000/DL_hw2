@@ -25,8 +25,8 @@ ONNX_FRCNN_PATH = "fasterrcnn.onnx"
 TRT_YOLO_ENGINE = "yolov5s.trt"
 TRT_FRCNN_ENGINE = "fasterrcnn.trt"
 
-TRAIN_ANNOT_JSON = "path/to/annotations.json"
-TRAIN_IMG_DIR = "path/to/images/"
+TRAIN_ANNOT_JSON = "Users/aneesh/downloads/annotations.json"
+TRAIN_IMG_DIR = "Users/aneesh/downloads/images/"
 BATCH_SIZE = 4
 NUM_EPOCHS = 10
 LR = 1e-3
